@@ -1,4 +1,4 @@
-Welcome to Math Viz
+Welcome to Math Vizualizations
 =================
 1. Ensure Node.js is installed on the system
 2. Run `npm install -i`
